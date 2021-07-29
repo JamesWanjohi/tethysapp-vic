@@ -1,0 +1,22 @@
+.btn-group .btn-primary {
+	width: 100%;
+	font-size: 25px;
+}
+.btn-group > button {
+	font-size:18px ;
+	border: 1.5px black solid;
+	margin: 2px;
+	width: 45%;
+}
+.input-group > label {
+	font-size: 17px;
+	width: 90%;
+	float: right;
+	margin:  5px;
+}
+
+.input-group > input[type="radio"] {
+	float: left;
+	padding: 2%;
+	margin-right: 3%;
+}
